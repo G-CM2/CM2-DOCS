@@ -14,6 +14,10 @@ on:
       - "package.json"
       - "package-lock.json"
 
+# GitHub Pages에 대한 쓰기 권한 설정
+permissions:
+  contents: write
+
 jobs:
   deploy:
     name: Deploy to GitHub Pages
