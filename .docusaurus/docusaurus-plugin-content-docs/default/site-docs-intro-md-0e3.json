@@ -1,0 +1,16 @@
+{
+  "id": "intro",
+  "title": "시작하기",
+  "description": "CM2 프로젝트에 오신 것을 환영합니다!",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/CM2-DOCS/docs/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/G-CM2/CM2-DOCS/tree/main/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar"
+}
