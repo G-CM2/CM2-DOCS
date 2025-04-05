@@ -1,7 +1,7 @@
 {
   "id": "intro",
   "title": "시작하기",
-  "description": "CM2 프로젝트에 오신 것을 환영합니다!",
+  "description": "CM2 가벼운 Docker 오케스트레이션 도구에 오신 것을 환영합니다!",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",

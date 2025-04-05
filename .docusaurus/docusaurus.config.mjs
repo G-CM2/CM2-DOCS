@@ -4,8 +4,8 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "CM2 Documentation",
-  "tagline": "CM2 프로젝트 문서",
+  "title": "CM2 - 가벼운 Docker 오케스트레이션 도구",
+  "tagline": "효율적인 컨테이너 관리의 시작",
   "favicon": "img/favicon.svg",
   "url": "https://g-cm2.github.io",
   "baseUrl": "/CM2-DOCS/",

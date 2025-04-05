@@ -6,8 +6,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "CM2 Documentation",
-  tagline: "CM2 프로젝트 문서",
+  title: "CM2 - 가벼운 Docker 오케스트레이션 도구",
+  tagline: "효율적인 컨테이너 관리의 시작",
   favicon: "img/favicon.svg",
 
   // Set the production url of your site here
